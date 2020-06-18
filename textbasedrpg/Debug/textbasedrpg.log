@@ -1,0 +1,3 @@
+﻿  textbasedrpg.cpp
+C:\Users\benmo\source\repos\textbasedrpg\textbasedrpg\textbasedrpg.cpp(143,27): warning C4018: '<': signed/unsigned mismatch
+  textbasedrpg.vcxproj -> C:\Users\benmo\source\repos\textbasedrpg\Debug\textbasedrpg.exe

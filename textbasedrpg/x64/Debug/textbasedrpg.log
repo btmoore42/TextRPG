@@ -1,0 +1,4 @@
+﻿  textbasedrpg.cpp
+C:\Users\benmo\source\repos\textbasedrpg\textbasedrpg\textbasedrpg.cpp(255,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benmo\source\repos\textbasedrpg\textbasedrpg\textbasedrpg.cpp(283,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  textbasedrpg.vcxproj -> C:\Users\benmo\source\repos\textbasedrpg\x64\Debug\textbasedrpg.exe
